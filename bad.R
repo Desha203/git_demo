@@ -1,10 +1,9 @@
-fun = function(one)
-{
-  one.plus.one <- oen + 1
-  four <- newVar <- matrix(1:10,nrow = 2)
-  four[ 1, ]
-  txt <- 'hi'
-  three <- two+ 1
-  if(txt == 'hi') 4
-  5}
-{
+fun = function(x){
+  x_plus_one <- x + 1
+  if( x_plus_one >= 4){
+
+  print("slow down there)
+  x_plus_one
+
+  }
+}
